@@ -18,7 +18,7 @@ The "Monster Mash" assignment. Each of the three monster types have a specific d
 <br>
 The **Grink** monster is given a linked list of movements that can contain any cardinal direction, and the list typically ends with "repeat", restarting the entire sequence. If at any point the next action takes the Grink off the dance floor, it will simply skip the action and proceed to the next one.
 <br>
-The **Orbin** monster always moves along the edge of the dance floor in a clockwise direction. If its origin is not on the perimeter, it will move in the specified direction until it reaches the wall, but then never moves away from the perimeter again.
+The **Orbin** monster always moves along the edge of the dance floor in a clockwise direction. If its origin is not on the perimeter, it will move in the specified direction until it reaches the wall, but then never moves away from the perimeter again. **GRADE: 100%**
 <br>
 <br>
 Personally-coded files: 
@@ -28,7 +28,7 @@ Personally-coded files:
 - LinkedGrid.java
 
 ## Assignment 3
-A type of decoding assignment where the objective is to convert Roman numerals its Arabic value, as well as checking for invalid inputs as dictated by the rules of Roman numerals. Additionally, another class compares one Roman numeral to another to decide which is larger.
+A type of decoding assignment where the objective is to convert Roman numerals its Arabic value, as well as checking for invalid inputs as dictated by the rules of Roman numerals. Additionally, another class compares one Roman numeral to another to decide which is larger. **GRADE: 100%**
 <br>
 <br>
 Personally-coded files: 
@@ -37,7 +37,7 @@ Personally-coded files:
 - RomanNumeral.java
 
 ## Assignment 4
-This assignment models DNA as a sequence of characters in order to find **palindromic sequences** (ex. ATGCCGTA) and **tandem repeats** (repeating sequences of a certain length and number of repetitions, ex. GGAGGAGGAGGA) within a sequence of input DNA. The palindrome checker class recognizes palindroms of a certain legnth, and the repeat checker recognizes seauences of a certain legnth that is repeated a certiain number of times. An additional analyer class takes a sequence to check for specific types of sequences.
+This assignment models DNA as a sequence of characters in order to find **palindromic sequences** (ex. ATGCCGTA) and **tandem repeats** (repeating sequences of a certain length and number of repetitions, ex. GGAGGAGGAGGA) within a sequence of input DNA. The palindrome checker class recognizes palindroms of a certain legnth, and the repeat checker recognizes seauences of a certain legnth that is repeated a certiain number of times. An additional analyer class takes a sequence to check for specific types of sequences. **GRADE: 100%**
 <br>
 <br>
 Personally-coded files: 
